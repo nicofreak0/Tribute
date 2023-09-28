@@ -1,0 +1,76 @@
+body {
+background-image: url(https://www.simslifecycle.com/wp-content/uploads/sites/2/2022/01/Electronic-Numerical-Integrator-And-Computer.png);
+font-family: helvetica;
+background-size: cover;
+}
+
+head {
+  font-family: helvetica;
+}
+
+span + span {
+margin-left:20px;
+}
+
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+  background-position: center;
+}
+
+.border{
+  border: solid;
+  border-radius: fit;
+  border-color: black;
+  padding: 10px;
+  background-color: #a8b3ba;
+}
+
+.border2{
+  border: solid;
+  border-color: black;
+  padding: 10px;
+  background-color: #d0d5d9;
+  border-radius: 50px;
+  border-width: fit-content;
+  
+}
+
+.border3{
+  border: solid;
+  border-color: black;
+  padding: 10px;
+  background-color: #c2def0;
+  border-radius: 50px;
+  border-width: fit-content;
+  text-align: center;
+}
+
+button {
+  background-color: #a0b2bd;
+  margin-top: 20px;
+  font-family: Times New Roman;
+  text-align: center;
+  border-width: 15px;
+}
+
+div{
+  width: fit-content;
+
+ }
+
+p{
+  width: fit-content;
+ }
+
+h2{
+  text-align: center;
+}
+
+li{
+  width: 80%;
+  list-style-position: inside;
+
+}
